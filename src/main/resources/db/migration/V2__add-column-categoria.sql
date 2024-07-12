@@ -1,0 +1,2 @@
+ALTER TABLE foros
+    ADD COLUMN categoria VARCHAR(255);
